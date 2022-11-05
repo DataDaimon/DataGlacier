@@ -1,0 +1,25 @@
+# cab_data
+
+Company
+Yellow Cab - 1 
+Pink Cab - 2
+
+Date of Travel
+MM/DD/YYYY
+
+# customer_id
+
+Gender
+Male - 1
+Female - 2
+
+# transaction_id
+
+Payment_Mode
+Card - 1
+Cash - 2
+
+# NYC Weather
+
+Snow fall - null
+snow depth - null
