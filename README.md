@@ -1,4 +1,3 @@
 # DataGlacier
 
-Internship assignments for Data Glacier.  
-  
+Internship assignments for Data Glacier.
